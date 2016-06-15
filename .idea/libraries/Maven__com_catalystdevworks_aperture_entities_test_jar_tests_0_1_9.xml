@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.catalystdevworks:aperture-entities:test-jar:tests:0.1.9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/catalystdevworks/aperture-entities/0.1.9/aperture-entities-0.1.9-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/catalystdevworks/aperture-entities/0.1.9/aperture-entities-0.1.9-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/catalystdevworks/aperture-entities/0.1.9/aperture-entities-0.1.9-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

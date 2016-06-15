@@ -1,0 +1,5 @@
+server: #can be removed when hosted on a server, this is to prevent conflicts when running on localhost
+  port: 8070
+
+bootstrapping:
+  tokens: true
